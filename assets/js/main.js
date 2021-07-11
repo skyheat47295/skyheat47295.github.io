@@ -127,7 +127,7 @@
 					'<a href="#header" class="toggle"></a>' +
 					'<span class="title">' + $('#logo').html() + ' ' +
 					'<span href="https://github.com/skyheat47295" class="icon brands fa-github"><span class="label">Github</span></span>' + ' ' +
-					'<span href="linkedin.com/in/hamilton-dutcher-cissp-20321119" class="icon brands fa-linkedin"><span class="label">linkedin' + '</span>' +
+					'<span href="https://linkedin.com/in/hamilton-dutcher-cissp-20321119" class="icon brands fa-linkedin"><span class="label">linkedin' + '</span>' +
 					'</div>'
 			)
 				.appendTo($body);
