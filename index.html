@@ -7,6 +7,7 @@
 		<link rel="stylesheet" href="assets/css/main.css" />
 		<script src="//widget.simplybook.me/v2/widget/widget.js"></script>
 		<script src="/assets/js/book.js"></script>
+		<script>var Defer = []; document.addEventListener('DOMContentLoaded', function() { while (Defer.length) Defer.shift().call(); }); </script>
 	</head>
 	<body class="is-preload">
 
@@ -55,7 +56,7 @@
 										</p>
 									</header>
 									<p>These are examples of some of the projects that I have been working on.</p>
-									<!--<script async>bookingFunction();</script> test for client-->
+									<script>Defer.push(bookingFunction());</script>
 								</div>
 							</section>
 
